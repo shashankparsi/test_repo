@@ -3,3 +3,5 @@ day 2 code changes have been done
 day 3 code changes have been done
 day 4 code changes have been done
 day 5 code changes have been done
+
+day 6 code changes have been done
